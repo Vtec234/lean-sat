@@ -1,0 +1,1 @@
+Tooling and infrastructure for interacting with SAT/SMT solvers and their proofs in Lean 4.
